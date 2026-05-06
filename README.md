@@ -44,6 +44,7 @@ A feature-rich MP3 music player built in Java with a Swing GUI styled after the 
 
 ---
 
+
 ## 📁 Project Structure
 
 ```
