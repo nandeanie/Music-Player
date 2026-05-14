@@ -3,6 +3,7 @@ package com.musicplayer.ui;
 import com.musicplayer.util.Theme;
 
 import javax.swing.*;
+
 import javax.swing.border.EmptyBorder;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import java.awt.*;
