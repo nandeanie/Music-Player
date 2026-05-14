@@ -157,6 +157,7 @@ public class EqualizerDialog extends JDialog {
         for (int i = 0; i < sliders.length; i++) {
             sliders[i].setValue(values[i]);
         }
+     
     }
  
     /** Returns current band values (dB) — use this to feed into your DSP layer. */
