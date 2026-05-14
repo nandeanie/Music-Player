@@ -904,6 +904,7 @@ public class MusicPlayerGUI extends JFrame implements PlayerListener {
             lcdPanel.updateProgress(frame, maxF,
                     String.format("%d:%02d", elSec/60, elSec%60),
                     String.format("-%d:%02d", remSec/60, remSec%60));
+         
         });
     }
  
