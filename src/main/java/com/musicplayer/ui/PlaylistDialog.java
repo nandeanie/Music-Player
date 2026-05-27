@@ -109,6 +109,7 @@ public class PlaylistDialog extends JDialog {
             }
         }
     }
+    
 
     private JButton styledButton(String text) {
         JButton btn = new JButton(text);
