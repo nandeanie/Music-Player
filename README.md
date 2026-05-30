@@ -27,6 +27,7 @@ A feature-rich MP3 music player built in Java with a Swing GUI styled after the 
 - Click the LCD screen for **full-screen album art**
 - Embedded album art displayed per song
 - **Pink ↔ White** theme toggle
+- 
 
 ### Song Features
 - ID3 tag reading (title, artist, duration, album art)
